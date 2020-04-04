@@ -1,0 +1,16 @@
+C:\Users\Mustafa\source\repos\Stok\Stok\bin\Debug\Stok.exe.config
+C:\Users\Mustafa\source\repos\Stok\Stok\bin\Debug\Stok.exe
+C:\Users\Mustafa\source\repos\Stok\Stok\bin\Debug\Stok.pdb
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.csprojAssemblyReference.cache
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmMusteriEkle.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmSatis.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.exe
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.pdb
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmMusteriListele.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmKategori.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmMarka.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmUrunEkle.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmUrunListele.resources
+C:\Users\Mustafa\source\repos\Stok\Stok\obj\Debug\Stok.frmSatisListele.resources
